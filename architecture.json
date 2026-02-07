@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-philosophical-dialogue-technological-anxiety",
+  "title": "THE ANVIL AND THE ABSTRACTION",
+  "tagline": "A steel magnate's soul becomes the battleground for America's industrial future.",
+  "target_words": 70000,
+  "actual_words": 75641,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Soul of Craft vs. The Logic of Capital",
+    "Inherited Legacy in an Age of Obsolescence",
+    "The Bodily Knowledge of Industry",
+    "Technological Disruption as Existential Threat"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Heartbeat of the Works",
+      "words": 3150
+    },
+    {
+      "ch": 2,
+      "title": "The Ledger and the Land",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "A Dinner of Principles",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Cousin's Gambit",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Sheffield Reports",
+      "words": 2800
+    },
+    {
+      "ch": 6,
+      "title": "Philosophers of the Furnace",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "The Open-Hearth Blueprint",
+      "words": 2900
+    },
+    {
+      "ch": 8,
+      "title": "A Walk Among the Men",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "The Consortium's Counter",
+      "words": 3050
+    },
+    {
+      "ch": 10,
+      "title": "Turner's Omen",
+      "words": 2850
+    },
+    {
+      "ch": 11,
+      "title": "The Sound of Cooling Steel",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "Boardroom Siege",
+      "words": 3400
+    },
+    {
+      "ch": 13,
+      "title": "The Ghost of the Forge",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "Calculus of Family",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "The Color of the Flame",
+      "words": 3300
+    },
+    {
+      "ch": 16,
+      "title": "A Visit from Spencer",
+      "words": 3150
+    },
+    {
+      "ch": 17,
+      "title": "The Telegraph's Demand",
+      "words": 3000
+    },
+    {
+      "ch": 18,
+      "title": "Pittsburgh in Soot and Gold",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Stress Test",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Unmapped Territory",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "Birth of a Rail",
+      "words": 3400
+    },
+    {
+      "ch": 22,
+      "title": "Not a Passenger Service",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "What Have I Made?",
+      "words": 3600
+    },
+    {
+      "ch": 24,
+      "title": "The Continuum",
+      "words": 3451
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a master craftsman from Silas's grandfather's era visits the modern Works. What does he praise? What does he mourn?",
+      "Draft a letter from Mr. Corvus to his New York partners, analyzing Silas Thorne not as a businessman, but as a psychological phenomenon.",
+      "Create a monologue for Alistair Finch, the secretary, revealing his private thoughts on the 'symphony' of the Works versus the 'silence' of the ledger.",
+      "Imagine a chapter from the perspective of the Bessemer converter itself. What does it 'feel'? What does it 'want'?"
+    ],
+    "technical": [
+      "Build a dynamic webpage that simulates the financial and production trade-offs between Bessemer and Open-Hearth processes, using the novel's data.",
+      "Create an audio composition that layers the industrial sounds described (steam-hammer, converter pour) with readings of philosophical texts from the era (Spencer, Aurelius)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Herman Melville",
+      "Charlotte Perkins Gilman",
+      "Henry David Thoreau",
+      "Nikola Tesla"
+    ]
+  },
+  "cover_prompt": "A massive, glowing anvil of solid light and molten steel floats suspended in the dark heart of a cavernous, abandoned factory, its surface etched with shimmering, impossible geometric equations and circuit patterns that pulse with a cold blue energy, while spectral, soot-stained hands of forgotten laborers reach from the shadows below as if to grasp or worship it, all set within the decaying grandeur of a 19th-century ironworks with broken skylights and rusted catwalks, in the atmospheric style of a fusion between Thomas Hart Benton's muscular American industrial scenes and the metaphysical, light-infused architectural precision of Giorgio de Chirico, book cover framing, perfectly centered and monumental composition viewed from a low, reverent angle looking up at the floating anvil, dramatic chiaroscuro lighting where the only illumination comes from the molten core of the anvil and the cold glow of its abstractions, casting long, dramatic shadows of the spectral hands and iron columns, color palette of burnt umbers, oxidized verdegris, sooty blacks, and the contrasting fiery oranges and icy electric blues of the anvil, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev"
+}
