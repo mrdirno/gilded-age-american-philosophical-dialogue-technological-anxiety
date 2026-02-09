@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The steam-hammer’s heartbeat was the first sound of the world. It came up through the soles of Silas Thorne’s boots, a deep, rhythmic *thump-thump-thump* that vibrated in the marrow of his shins, a mechanical systole and diastole that governed the blood-flow of the Works. It was five-forty in the morning. The September air over Pittsburgh was a broth of coal-smoke and river-damp, the sun a faint, jaundiced suggestion behind the murk. Silas stood on the iron gantry overlooking the Bessemer converter, a great, egg-shaped vessel that glowed with a sullen, interior light. He was not watching the molten steel. He was watching the men.
+Copper wire hummed against the marble floor, a live nerve in the drawing room’s corpse. Cornelius watched it snake from the dynamo, past the sherry tray, to terminate in his guest’s gloved hand. “The question isn’t whether it can carry a voice, Doctor,” he said. “It’s whether a voice, disembodied, carries a soul.”
+
+
 
 They moved in the hellish glow like figures in a pagan ritual, silhouettes wielding long, iron rods. Their faces, when the light caught them, were wiped clean of individual expression, reduced to masks of soot and effort. The converter tilted, and a nova of sparks erupted, a fountain of liquid sun that cascaded into the waiting ladle. The noise was not a sound but a presence, a physical weight on the eardrums. Silas did not flinch. He had inherited this symphony. His grandfather had heard the ring of the anvil; his father, the scream of the steam-whistle; he, Silas, conducted this orchestra of controlled cataclysm.
 
